@@ -3,7 +3,7 @@
     padding: 0;
     color: white;
 }
-div{
+header{
     height: 60px;
     background-color: #0f1111;
     
@@ -21,4 +21,35 @@ a{
 }
 input{
     color: black;
+}
+footer{
+    background-color: #0f1111;
+   height: 250px;
+   
+}
+div > h1 {
+    color: #f4f804;
+    height: 350px;
+    background-color: 	#818589 ;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.info{
+    
+    width: 80px;
+    display: inline-block;
+   
+    margin: 20px;
+    padding: 20px;
+}
+.con{
+    width: 150px;
+    margin: 20px;
+    padding: 20px;
+    display: inline-block;
+     
+}
+footer a {
+    color: blue;
 }
