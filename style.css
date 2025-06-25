@@ -1,0 +1,24 @@
+*{
+    margin :0;
+    padding: 0;
+    color: white;
+}
+div{
+    height: 60px;
+    background-color: #0f1111;
+    
+}
+button{
+    background-color: #f08804;
+}
+.a{
+   font-size: 25px;
+    color: #f08804;
+}
+a{
+    text-decoration: none;
+    margin: 70px;
+}
+input{
+    color: black;
+}
